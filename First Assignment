@@ -1,0 +1,315 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[6]:
+
+
+print ("my name is usman")
+
+
+# In[7]:
+
+
+print(2)
+
+
+# In[38]:
+
+
+idcard_1 = "PIAIC"
+name = "usman"
+fathername = "shafqat ali"
+university = "bahria uni"
+print(name)
+print(fathername)
+print(university)
+print(idcard_1)
+
+
+# In[59]:
+
+
+name = "shafqat"
+print (name)
+
+
+# In[45]:
+
+
+weight = 250 
+multiplier = 2.5
+
+
+# In[46]:
+
+
+c=weight*multiplier
+print(c)
+
+
+# In[47]:
+
+
+c=weight/multiplier
+print(c)
+
+
+# In[48]:
+
+
+c=weight+multiplier
+print(c)
+
+
+# In[13]:
+
+
+c=weight-multiplier
+
+
+# In[14]:
+
+
+print(c)
+
+
+# In[10]:
+
+
+name1 = "usman"
+
+
+# In[11]:
+
+
+fathername = "shafqat ali"
+
+
+# In[12]:
+
+
+university = "bahria university islamabad"
+
+
+# In[13]:
+
+
+print(name1)
+
+
+# In[14]:
+
+
+print(fathername)
+
+
+# In[15]:
+
+
+print(university)
+
+
+# In[22]:
+
+
+message = '''
+name2 : {usman}
+fathername2 : {shafqat ali}
+university2 : {bahria university islamabad}
+'''
+
+
+# In[23]:
+
+
+print(message)
+
+
+# In[24]:
+
+
+message3 = '''
+PIAIC BATCH3 Islamabad
+name3 : {usman}
+fathername3 : {shafqat ali}
+university3 : {bahria university islamabad}
+'''
+
+
+# In[25]:
+
+
+print(message3)
+
+
+# In[26]:
+
+
+card4 = '''
+name4 : {usman}
+fathername4 : {shafqat ali}
+university4 : {bahria university islamabad}
+'''
+
+
+# In[27]:
+
+
+print(card4)
+
+
+# In[8]:
+
+
+alert = ("you are in danger!")
+
+
+# In[9]:
+
+
+print(alert)
+
+
+# In[19]:
+
+
+alert1 = ("time will nerver stop!")
+
+
+# In[20]:
+
+
+print(alert1)
+
+
+# In[21]:
+
+
+alert3 = ("Molana a raha hai lehaza es week class cancell ho sakti hai!")
+
+
+# In[22]:
+
+
+print(alert3)
+
+
+# In[42]:
+
+
+player = 5
+
+
+# In[43]:
+
+
+opponents = 5
+
+
+# In[44]:
+
+
+total = ("player+opponents")
+
+
+# In[45]:
+
+
+print(total)
+
+
+# In[39]:
+
+
+print(player)
+
+
+# In[41]:
+
+
+print(opponents)
+
+
+# In[48]:
+
+
+number5 = 10
+
+
+# In[50]:
+
+
+total5 = number5 + 30
+
+
+# In[51]:
+
+
+print(total5)
+
+
+# In[52]:
+
+
+my_name6 = "usman ali"
+
+
+# In[54]:
+
+
+gender = ("male")
+
+
+# In[55]:
+
+
+print(my_name6)
+
+
+# In[56]:
+
+
+print(gender)
+
+
+# In[57]:
+
+
+first_number : (200)
+
+
+# In[58]:
+
+
+second_number : (300)
+
+
+# In[63]:
+
+
+third_nubmer : (400)
+
+
+# In[70]:
+
+
+outcome1 = (400 + 200)
+
+
+# In[71]:
+
+
+print(outcome1)
+
+
+# In[72]:
+
+
+outcome2 = (400 + 300 - 200 * 400 / 200)
+
+
+# In[73]:
+
+
+print(outcome2)
+
